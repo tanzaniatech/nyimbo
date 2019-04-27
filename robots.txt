@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Disallow: /template
+
+Sitemap: https://nyimbo-mpya.com/sitemap.xml
