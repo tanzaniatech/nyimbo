@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["79:5A:BB:4F:36:59:C7:A8:1C:BE:74:0F:04:18:B4:3B:7E:1C:E8:27:43:7B:2D:85:5C:34:94:41:C6:AE:D1:16"]
   }
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.app.muziki",
+    "sha256_cert_fingerprints":
+    ["40:5D:85:F6:B6:B8:0F:CF:C6:82:3A:27:7F:83:06:AA:1E:EC:8E:A4:3D:11:F6:BA:98:7A:F2:41:01:47:18:46"]
+  }
 }]
